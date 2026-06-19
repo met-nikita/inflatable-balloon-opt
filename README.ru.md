@@ -176,7 +176,6 @@ balloon/
 examples/
   nelidovo_1977.py   пример 20x16 из статьи  (mu = 1.08)
   sample_problem.json
-viz/               статическая визуализация для GitHub Pages (см. ниже)
 mib_tests/         набор тестов (запуск: python -m mib_tests.run_all)
 run.py             запуск из командной строки
 ```

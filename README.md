@@ -172,7 +172,6 @@ balloon/
 examples/
   nelidovo_1977.py   the paper's 20x16 example  (mu = 1.08)
   sample_problem.json
-viz/               static GitHub Pages visualisation (see below)
 mib_tests/         test suite (run with: python -m mib_tests.run_all)
 run.py             command-line driver
 ```
